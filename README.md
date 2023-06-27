@@ -1,6 +1,6 @@
 # Library Management System
 
-This is a simple Library Management System written in C++. The system allows for the addition, deletion, borrowing, and returning of library items such as books, films, and music albums.
+This is an old Library Management System written in C++. The system allows for the addition, deletion, borrowing, and returning of library items such as books, films, and music albums. This project was done as a piece of coursework for "Object Oriented Computer Programming" in my undergraduate degree in Electical and Electronic Engineering and was my first project using object oriented techniques in C++.
 
 ## Features
 
@@ -34,10 +34,7 @@ The Library Management System is a console application. It prompts the user with
 
 Follow the on-screen prompts to perform the desired actions.
 
-## Contributing
-
-We welcome contributions to this project. Please feel free to fork the repository and submit pull requests, or create issues for any bugs you find.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
